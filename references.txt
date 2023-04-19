@@ -1,0 +1,45 @@
+What RHF simplifies is written here:
+https://react-hook-form.com/faqs/ 
+
+Docs:
+https://react-hook-form.com/
+
+Tutorial & Concepts
+https://levelup.gitconnected.com/react-form-validations-made-easy-the-ultimate-cheat-sheet-bb6cb19ad559
+https://catalins.tech/react-forms-with-react-hook-form/ - basic validation
+https://doc.sitecore.com/xp/en/developers/81/web-forms-for-marketers/the-field-types-in-web-forms.html 
+---
+
+Common Validation Messages as examples:
+- "this field is required", means you've left the field blank
+- "Please enter in format DD/MM/YYY", means you've entered data in the wrong format
+- "Password should be between 8 and 30 characters long and contain one uppercase letter, one number, and one special character": You're not using strict data format requirements for this field
+
+Form Validation Importance
+- Website Security (by applying strict validations input)
+- Prevents Human Error
+- Protects User Data (highly secure password)
+
+Basic Built-in Validation
+- Type: specific type data such as email, URL, phone number
+- Required: field input is mandatory and can't be blank
+- Minlength and maxlength: minimum and maximum length of characters
+- Pattern: Regex Pattern
+
+Type of Forms, can be found at https://safetyculture.com/topics/types-of-forms/examples-of-forms/#:~:text=What%20are%20Examples%20of%20Forms,contact%20tracing%2C%20and%20feedback%20gathering.
+- Authentication 
+- Contact Form
+- Event Registration
+- -
+- Incident Report Form
+- Purchase Order Form
+
+What is validated in the Form in 2023?
+- First & Last Name or Username
+- Email 
+- Password 
+- -
+- Date 
+- Mobile Number 
+- Bio 
+- Dropdown choices
