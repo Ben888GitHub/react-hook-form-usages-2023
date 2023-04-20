@@ -9,6 +9,9 @@ https://levelup.gitconnected.com/react-form-validations-made-easy-the-ultimate-c
 https://catalins.tech/react-forms-with-react-hook-form/ - basic validation
 https://doc.sitecore.com/xp/en/developers/81/web-forms-for-marketers/the-field-types-in-web-forms.html 
 ---
+https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/ - More In-Depth Examples
+https://www.youtube.com/watch?v=4oCH5WaJHzk&t=10s
+
 
 Common Validation Messages as examples:
 - "this field is required", means you've left the field blank
