@@ -12,6 +12,37 @@ https://doc.sitecore.com/xp/en/developers/81/web-forms-for-marketers/the-field-t
 https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/ - More In-Depth Examples
 https://www.youtube.com/watch?v=4oCH5WaJHzk&t=10s
 
+More about Yup:
+- https://stackoverflow.com/questions/55451304/formik-yup-password-strength-validation-with-react
+- https://dev.to/estheragbaje/how-to-build-a-simple-form-with-validation-using-yup-and-formik-beginner-friendly-521j
+- https://copyprogramming.com/howto/ultimate-guide-to-react-yup-password-validation-with-numbers-strings-and-uppercase
+- -
+- https://jasonwatmore.com/react-hook-form-7-date-validation-example-in-react - Date Validation
+- https://code.pieces.app/blog/react-form-validation-formik-yup
+- https://stackoverflow.com/questions/64426021/formik-yup-how-to-validate-if-the-provided-date-is-eighteen-years-old - Date Validation
+- https://www.codedaily.io/tutorials/Yup-Date-Validation-with-Custom-Transform - Date Validation
+- https://copyprogramming.com/howto/how-to-validate-date-of-birth-using-yup-tips-and-customization - Date Validation
+- https://stackoverflow.com/questions/15491894/regex-to-validate-date-formats-dd-mm-yyyy-dd-mm-yyyy-dd-mm-yyyy-dd-mmm-yyyy - Date Validation
+- https://www.tabnine.com/code/javascript/functions/yup/StringSchema/email - Email Validation
+- https://www.grepper.com/answers/412634/yup+email+validation - Email Validation
+- https://stackblitz.com/edit/react-gxdqus?file=src%2FApp.js - Single Checkbox Validation
+- https://jasonwatmore.com/post/2021/04/29/react-hook-form-7-required-checkbox-example - Single Checkbox Validation
+- https://www.positronx.io/react-hook-form-required-checkbox-validation-tutorial/ - Single Checkbox Validation
+- https://stackoverflow.com/questions/70988588/react-hook-form-how-can-i-validate-a-group-of-radio-buttons-or-checkboxes-to-en - Multiple Checkboxes Validation*
+- https://codesandbox.io/s/react-hook-form-radio-button-group-with-yup-validations-37rxk?file=/src/index.js:0-27 - Radio Input Validation
+- https://stackoverflow.com/questions/58684667/how-do-i-validate-a-radio-input-in-yup-formik - Radio Input Validation
+- https://codesandbox.io/s/react-formik-yup-checkbox-radio-inputs-8q322?file=/src/index.js - Radio Input Validation (line: 152) , Multiple Checkboxes Validation (line: 153) , Single Checkbox Validation (line: 154)
+- https://stackoverflow.com/questions/61634973/yup-validation-of-website-using-url-very-strict - Website URL Validation (answered by Cmte Cardeal)
+- https://www.youtube.com/watch?v=o3B9KTlod4w - File Upload Validation
+- https://www.youtube.com/watch?v=tYGTjxhzrqY - File Upload Validation
+- https://medium.com/webisora/yup-validating-file-type-and-size-81cd26ca7dfb - File Upload Validation
+- https://github.com/jaredpalmer/formik/issues/926 - File Upload Validation
+- https://www.carlrippon.com/react-hook-form-validation-errors/ - Error Handling
+- https://stackoverflow.com/questions/69135597/how-to-show-error-message-using-react-hook-form-in-react - Error Handling
+- https://www.codedaily.io/courses/Formik-for-Beginners/Easy-Error-Handling-and-Data-Validation-with-Yup - Error Handling
+
+
+-------
 
 Common Validation Messages as examples:
 - "this field is required", means you've left the field blank

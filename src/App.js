@@ -9,6 +9,7 @@ import WithReactSelect from './component/MoreOnRHF/WithReactSelect';
 import NoRHF from './component/NoRHF';
 import UserForm from './component/UserForm';
 import WithRHF from './component/WithRHF';
+import YupIntegration from './component/YupIntegration.js/YupIntegration';
 
 function App() {
 	return (
@@ -32,6 +33,8 @@ function App() {
 			<SimpleValidationDefaultValue />
 			<br />
 			<UserForm />
+			<br />
+			<YupIntegration />
 		</div>
 	);
 }
