@@ -11,6 +11,8 @@ https://doc.sitecore.com/xp/en/developers/81/web-forms-for-marketers/the-field-t
 ---
 https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/ - More In-Depth Examples
 https://www.youtube.com/watch?v=4oCH5WaJHzk&t=10s
+https://github.com/Clarity-89/react-hook-form-example - GitHub Clone Repo
+https://jasonwatmore.com/post/2021/10/05/react-hook-form-7-dynamic-form-example-with-usefieldarray - RHF Field Array
 
 More about Yup:
 - https://stackoverflow.com/questions/55451304/formik-yup-password-strength-validation-with-react
