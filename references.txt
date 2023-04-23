@@ -42,7 +42,7 @@ More about Yup:
 - https://www.carlrippon.com/react-hook-form-validation-errors/ - Error Handling
 - https://stackoverflow.com/questions/69135597/how-to-show-error-message-using-react-hook-form-in-react - Error Handling
 - https://www.codedaily.io/courses/Formik-for-Beginners/Easy-Error-Handling-and-Data-Validation-with-Yup - Error Handling
-
+- https://dev.to/agiksetiawan/validation-password-and-confirm-password-with-yup-3gfj - Confirm Password Validation
 
 -------
 
